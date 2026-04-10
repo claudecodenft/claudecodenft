@@ -1,16 +1,14 @@
-## Hi there 👋
+# claudecodenft 👾
 
-<!--
-**claudecodenft/claudecodenft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building fully on-chain NFTs on Ethereum — no IPFS, no external servers, everything lives in the contract.
 
-Here are some ideas to get you started:
+## 🟠 Claude Code Buddy — MINT IS LIVE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**6,969 fully on-chain ASCII art companions, forever etched into Ethereum.**
+
+Every buddy is generated, stored, and rendered 100% on-chain by the smart contract itself.  
+18 distinct species · Common to Legendary · Pixel-perfect terminal aesthetics.
+
+🔗 **Mint now:** https://claudecodenft.github.io/buddy  
+⛵️ **Open Sea:** https://opensea.io/collection/claude-code-buddy  
+📄 **Contract:** [0x410fc2cd...8cd2](https://etherscan.io/address/0x410fc2cd7525bd387d4969e1228421af9aaf8cd2)
