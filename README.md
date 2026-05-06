@@ -9,6 +9,6 @@ Building fully on-chain NFTs on Ethereum — no IPFS, no external servers, every
 Every buddy is generated, stored, and rendered 100% on-chain by the smart contract itself.  
 18 distinct species · Common to Legendary · Pixel-perfect terminal aesthetics.
 
-🔗 **Mint now:** https://claudenft.com
+🔗 **Mint now:** https://claudenft.com  
 ⛵️ **Open Sea:** https://opensea.io/collection/claude-code-buddy  
 📄 **Contract:** [0x410fc2cd...8cd2](https://etherscan.io/address/0x410fc2cd7525bd387d4969e1228421af9aaf8cd2)
